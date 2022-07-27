@@ -1,5 +1,7 @@
-<h1 align="center">Hello @everyone Nicolas Velez</h1>
+<h1 align="center">Hello everyone, Nicolas Velez here!</h1>
 <h3 align="center">Student of Systems Engineering at Universidad EAN.</h3>
+
+- 🏫 **Currently on third semester of Systems Engineering.**
 
 - Languages 🗣️ **Spanish[Native]|English[Second Language].**
 
