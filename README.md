@@ -7,6 +7,8 @@
 
 - Knowledge/Experience 🖥️: **Advanced knowledge in PC Hardware and Benchmarks in Software/Video Games.**
 
+- 📱 **Interested in the tech world, programming, internet of things, among others.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
