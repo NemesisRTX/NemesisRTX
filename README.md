@@ -3,7 +3,7 @@
 
 - 🏫 **Currently on third semester of Systems Engineering.**
 
-- Languages 🗣️ **Spanish[Native]|English[Second Language].**
+- Languages 🗣️ **Spanish [Native] | English [Second Language].**
 
 - Knowledge/Experience 🖥️ **Advanced knowledge in PC Hardware and Benchmarks in Software/Video Games.**
 
