@@ -1,7 +1,9 @@
 <h1 align="center">Hello @everyone Nicolas Velez</h1>
-<h3 align="center">Student of Systems Engineering at Universidad EAN. Native Spanish speaker, English as a second language.</h3>
+<h3 align="center">Student of Systems Engineering at Universidad EAN.</h3>
 
-- Knowledge/Experience 🖥️ **Advanced knowledge in PC Hardware and Benchmarks in Software/Video Games**
+- Languages 🗣️ **Spanish[Native]|English[Second Language].**
+
+- Knowledge/Experience 🖥️ **Advanced knowledge in PC Hardware and Benchmarks in Software/Video Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
